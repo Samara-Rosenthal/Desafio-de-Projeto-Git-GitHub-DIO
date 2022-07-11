@@ -1,0 +1,4 @@
+Durante o curso podemos também aprofundar o conhecimento em uma ferramenta bem interessante para poder usar e formatar texto Markdown.
+
+[No link você encontra todas as informações](https://www.markdownguide.org/basic-syntax/)
+
